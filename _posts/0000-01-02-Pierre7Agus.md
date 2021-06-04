@@ -1,6 +1,4 @@
----
-layout: slide
-title: "Bienvenidos a la segunda página!"
----
-Tu texto
-Utiliza la flecha hacia la izquierda para volver!
+Ok, esto es un nuevo contenido.
+"cuando el rio suena es porque piedras trae"
+"El que con lobo se junta a aullar"
+"truena truena y los rayos caen"
